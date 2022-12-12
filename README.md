@@ -11,4 +11,4 @@ keep in touch!
 
 ## My resume
 
-I'm looking for a new job. Here is <a href="https://www.softnova.lt/resume-vlad-osmianski.pdf" target="_blank">my resume</a>.
+I'm looking for a new job. Here is [my resume](https://www.softnova.lt/resume-vlad-osmianski.pdf).
