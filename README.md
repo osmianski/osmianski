@@ -17,6 +17,6 @@ In short, I'm experienced, motivated, affordable, team-oriented, self-discipline
 
 Maybe, just maybe, I'm your next teammate. Just whisper a word to the one making hiring decisions!
 
-**Important**. For many, hiring someone from another country or even continent may sound troublesome. Don't worry, you can make a commercial contract with the company that I own instead of actually hiring me.
+**Important**. For many, hiring someone from another country or even continent may sound troublesome. It may be easier to make a commercial contract with the company that I own instead of actually hiring me.
 
 ## Project portfolio
