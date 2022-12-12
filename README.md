@@ -11,7 +11,9 @@ keep in touch!
 
 ## I'm open for hire!
 
-At the moment, I'm looking for a remote job. Here is [my resume](https://www.softnova.lt/resume-vlad-osmianski.pdf). In short, I'm experienced, motivated, affordable, team-oriented, self-disciplined, able to deep-dive into a technology of choice and get my hands dirty, and finally, the one who actually delivers.
+At the moment, I'm looking for a remote job. Here is [my resume](https://www.softnova.lt/resume-vlad-osmianski.pdf). 
+
+In short, I'm experienced, motivated, affordable, team-oriented, self-disciplined, able to deep-dive into a technology of choice and get my hands dirty, and finally, the one who actually delivers.
 
 Maybe, just maybe, I'm your next teammate. Just whisper a word to the one making hiring decisions!
 
