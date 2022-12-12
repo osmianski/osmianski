@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**osmianski/osmianski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vlad Osmianski, a senior PHP + JavaScript + MySql developer of large-scale
+websites & backends and entrepreneur living in Vilnius,
+Lithuania 🇱🇹 with my wife Monika 👩 and a parrot Johnny 🐦.
 
-Here are some ideas to get you started:
+Very good at project management and communication, too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m here to create stuff that is useful to other people. Let's
+keep in touch!
+
+## My resume
+
+I'm looking for a new job. Here is <a href="https://www.softnova.lt/resume-vlad-osmianski.pdf" target="_blank">my resume</a>.
